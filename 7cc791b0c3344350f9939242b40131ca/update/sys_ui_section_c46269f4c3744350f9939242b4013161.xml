@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c46269f4c3744350f9939242b4013161" sys_domain="global" table="x_1755363_smart_0_hotel_room" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>room_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:10:03</sys_created_on>
+            <sys_id>d7932db8c3744350f9939242b4013189</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755363_smart_0_hotel_room" sys_domain="global" view="Default view">c46269f4c3744350f9939242b4013161</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:10:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>room_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:10:03</sys_created_on>
+            <sys_id>97932db8c3744350f9939242b401318a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755363_smart_0_hotel_room" sys_domain="global" view="Default view">c46269f4c3744350f9939242b4013161</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:10:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>price</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:10:03</sys_created_on>
+            <sys_id>17932db8c3744350f9939242b401318b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755363_smart_0_hotel_room" sys_domain="global" view="Default view">c46269f4c3744350f9939242b4013161</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:10:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:10:03</sys_created_on>
+            <sys_id>93932db8c3744350f9939242b401318c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755363_smart_0_hotel_room" sys_domain="global" view="Default view">c46269f4c3744350f9939242b4013161</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:10:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>image</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:10:03</sys_created_on>
+            <sys_id>13932db8c3744350f9939242b401318d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755363_smart_0_hotel_room" sys_domain="global" view="Default view">c46269f4c3744350f9939242b4013161</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:10:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>capacity</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:10:03</sys_created_on>
+            <sys_id>9f932db8c3744350f9939242b401318d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755363_smart_0_hotel_room" sys_domain="global" view="Default view">c46269f4c3744350f9939242b4013161</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:10:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:10:03</sys_created_on>
+            <sys_id>1f932db8c3744350f9939242b401318e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755363_smart_0_hotel_room" sys_domain="global" view="Default view">c46269f4c3744350f9939242b4013161</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:10:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rating</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:10:03</sys_created_on>
+            <sys_id>9b932db8c3744350f9939242b401318f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755363_smart_0_hotel_room" sys_domain="global" view="Default view">c46269f4c3744350f9939242b4013161</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:10:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wifi</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:10:03</sys_created_on>
+            <sys_id>1b932db8c3744350f9939242b4013190</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755363_smart_0_hotel_room" sys_domain="global" view="Default view">c46269f4c3744350f9939242b4013161</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:10:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ac</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:10:03</sys_created_on>
+            <sys_id>97932db8c3744350f9939242b4013191</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755363_smart_0_hotel_room" sys_domain="global" view="Default view">c46269f4c3744350f9939242b4013161</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:10:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1755363_smart_0_hotel_room</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-09 11:04:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c46269f4c3744350f9939242b4013161</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755363_smart_0_hotel_room</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Smart Hotel" source="x_1755363_smart_0">7cc791b0c3344350f9939242b40131ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Smart Hotel">7cc791b0c3344350f9939242b40131ca</sys_scope>
+            <sys_update_name>sys_ui_section_c46269f4c3744350f9939242b4013161</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-09 11:04:38</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

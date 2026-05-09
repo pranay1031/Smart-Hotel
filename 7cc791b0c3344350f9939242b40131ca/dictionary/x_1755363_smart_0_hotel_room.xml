@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="575229f4c3744350f9939242b40131dc" label="HOTEL ROOM" max_length="40" name="x_1755363_smart_0_hotel_room" type="collection">
+        <element label="price" max_length="38" name="price" type="decimal"/>
+        <element label="wifi" max_length="255" name="wifi" type="boolean"/>
+        <element label="image" max_length="255" name="image" type="user_image"/>
+        <element choice="1" label="Room Type" max_length="255" name="room_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Double" sequence="1" value="Double"/>
+                <element inactive_on_update="false" label="single" sequence="0" value="single"/>
+            </choice>
+        </element>
+        <element label="rating" max_length="38" name="rating" type="decimal"/>
+        <element choice="1" label="status" max_length="255" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="capacity" max_length="255" name="capacity" type="integer"/>
+        <element label="AC" max_length="255" name="ac" type="boolean"/>
+        <element label="Room Number" max_length="40" name="room_number" type="string"/>
+        <element label="description" max_length="40" name="description" type="string"/>
+    </element>
+</database>
