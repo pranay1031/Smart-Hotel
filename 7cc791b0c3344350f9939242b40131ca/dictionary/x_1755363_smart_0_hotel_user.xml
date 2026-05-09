@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="6b3b1178c3344350f9939242b401315a" label="Hotel Users" max_length="40" name="x_1755363_smart_0_hotel_user" type="collection">
+        <element label="Created On" max_length="255" name="created_on" type="calendar_date_time"/>
+        <element choice="1" label="role" max_length="255" name="role" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="admin" sequence="0" value="admin"/>
+                <element inactive_on_update="false" label="manager" sequence="1" value="manager"/>
+                <element inactive_on_update="false" label="guest" sequence="3" value="guest"/>
+                <element inactive_on_update="false" label="staff" sequence="2" value="staff"/>
+            </choice>
+        </element>
+        <element default="+91" label="phone" max_length="255" name="phone" type="phone_number_e164"/>
+        <element label="profile image" max_length="255" name="profile_image" type="user_image"/>
+        <element label="password" max_length="255" name="password" type="password"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="Full Name" max_length="40" name="full_name" type="string"/>
+    </element>
+</database>
